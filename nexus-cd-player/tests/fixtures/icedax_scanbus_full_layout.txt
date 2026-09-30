@@ -1,0 +1,5 @@
+scsibus2:
+	2,0,0	200) 'PLDS    ' 'DVD+-RW DH-16ABS' 'PD11' Removable CD-ROM
+	2,1,0	201) *
+	2,2,0	202) *
+	2,3,0	203) *

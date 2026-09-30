@@ -1,0 +1,5 @@
+Tracks:11 39:39.17
+CD-Text: not detected
+T01:       0  audio linear copydenied stereo title '' from ''
+T02:   23143  audio linear copydenied stereo title '' from ''
+T03:   <corru

@@ -1,0 +1,5 @@
+Tracks:1 3:12.00
+CD-Text: not detected
+CD-Extra: not detected
+T01:       0  audio linear copydenied stereo title '' from ''
+Leadout: 14400

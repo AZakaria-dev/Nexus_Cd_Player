@@ -1,0 +1,4 @@
+Tracks:1 42:00.00
+CD-Text: not detected
+T01:       0  data linear copydenied title '' from ''
+Leadout: 189000

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Nexus CD Player
+Comment=Touchscreen frontend for the physical CD player
+Exec=qmlscene qml/Main.qml
+Icon=assets/icon.svg
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Supported-Orientations=landscape

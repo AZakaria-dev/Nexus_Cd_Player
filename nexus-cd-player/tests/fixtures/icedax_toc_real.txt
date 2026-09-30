@@ -1,0 +1,26 @@
+WARNING: the deprecated pseudo SCSI syntax found as device specification.
+Support for that may cease in the future versions of wodim. For now,
+the device will be mapped to a block device file where possible.
+Run "wodim --devices" for details.
+Type: ROM, Vendor 'PLDS    ' Model 'DVD+-RW DH-16ABS' Revision 'PD11' MMC+CDDA
+536576 bytes buffer memory requested, 4 buffers, 52 sectors
+Read TOC CD Text failed (probably not supported).
+#icedax version 1.1.11, real time sched., soundcard, libparanoia support
+Tracks:11 39:39.17
+CDINDEX discid: Q0NX8aZqWuVi6M0g7sGtUA6OhIQ-
+CDDB discid: 0x7a094b0b
+CD-Text: not detected
+CD-Extra: not detected
+Album title: '' from ''
+T01:       0  5:08.43
+T02:   23143  3:44.10
+T03:   39953  0:12.22
+T04:   40875  5:01.46
+T05:   63496  0:22.03
+T06:   65149  3:52.13
+T07:   82562  3:54.69
+T08:  100181  1:36.02
+T09:  107383  4:51.15
+T10:  129223  5:01.32
+T11:  151830  5:54.62
+Leadout:  178442
