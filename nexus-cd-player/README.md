@@ -1,4 +1,4 @@
-# Nexus CD Player — Backend V1
+# Nexus CD Player — Backend
 
 A standalone touchscreen audio-CD player for a Nexus 7 (2013 LTE) running
 Ubuntu Touch 16.04.7. This repository is the **backend and CLI only** — no GUI.
